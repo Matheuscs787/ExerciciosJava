@@ -1,22 +1,19 @@
-//Faça um programa que leia um número real e o imprima
+//Leia um número real e imprima a quinta parte dele
 
 package secao03;
 
 import java.util.Scanner;
 
-public class Exer2 {
+public class Exer05 {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		
 		float valor;
 		
-		System.out.print("Insira um valor real: ");
+		System.out.println("Insira um valor real: ");
 		valor = sc.nextFloat();
-		
-		System.out.println("\nO valor inserido foi: " + valor);
-	
+		System.out.println("A quinta parte desse valor é: " + (valor/5));
 		sc.close();
 	}
 

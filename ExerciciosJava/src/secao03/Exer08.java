@@ -5,7 +5,7 @@ package secao03;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exer8 {
+public class Exer08 {
 
 	public static void main(String[] args) {
 		

@@ -4,7 +4,7 @@ package secao03;
 
 import java.util.Scanner;
 
-public class Exer1 {
+public class Exer01 {
 
 	public static void main(String[] args) {
 	
